@@ -1,18 +1,11 @@
 # Python Digital Clock
 
-
+It is a normal digital clock which is developed in python language.
 You have to install python in your machine then only you can acess this clock.
-
-
 
 Type python ./clock.py command in terminal for run this clock in your machine.
 OR
 Another way is just double click on the exe file then program will run succesfully.
-
-
-# Python Digital Clock
-
-It is a normal digital clock which is made in python language.
 
 
 ## Technologies
